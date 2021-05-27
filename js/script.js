@@ -6,4 +6,4 @@ document.getElementById('input-text-name').innerHTML = "Nome inserito: " + nameI
 document.getElementById('input-text-surname').innerHTML = "Cognome inserito: " + surnameInput + ".";
 document.getElementById('input-text-color').innerHTML = "Colore preferito: " + favoriteColor + ".";
 
-document.getElementById('password').innerHTML = "La tua password 'molto' sicura e affidabile è '" + nameInput + surnameInput + favoriteColor + "21'. (Non fornire a nessuno la tua password ultrasupersegreta.)";
+document.getElementById('password').innerHTML = "La tua password 'molto' sicura e affidabile è '" + nameInput + surnameInput + favoriteColor + "21'. (Ricorda: non fornire mai a nessuno la tua password ultrasupersegretissima.)";
